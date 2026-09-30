@@ -1,0 +1,12 @@
+{
+  "hsTopPercent": 33.0,
+  "minCounted": 8,
+  "minWaveHeightM": 0.0,
+  "maxWaveHeightM": 15.0,
+  "minPeriodS": 3.0,
+  "maxPeriodS": 25.0,
+  "frequencyBandHz": 0.01,
+  "densityKgM3": 1025.0,
+  "gravityMS2": 9.81,
+  "binCount": 6
+}

@@ -1,0 +1,31 @@
+{
+  "station": "44017",
+  "source": "ndbc-realtime2-standard-meteorological",
+  "note": "Wave height / period / direction / spectral density of one 22 hour window, with explicit nulls for the missing reports.",
+  "observations": [
+    { "id": "o01", "time": "2026-09-27T00:00:00Z", "waveHeightM": 0.85, "periodS": 6.5, "directionDeg": 95, "energyDensity": 0.02 },
+    { "id": "o02", "time": "2026-09-27T01:00:00Z", "waveHeightM": 0.92, "periodS": 7.0, "directionDeg": 100, "energyDensity": 0.03 },
+    { "id": "o03", "time": "2026-09-27T02:00:00Z", "waveHeightM": 1.05, "periodS": 7.5, "directionDeg": 105, "energyDensity": 0.04 },
+    { "id": "o04", "time": "2026-09-27T03:00:00Z", "waveHeightM": 1.13, "periodS": 8.0, "directionDeg": 110, "energyDensity": 0.05 },
+    { "id": "o05", "time": "2026-09-27T04:00:00Z", "waveHeightM": 1.28, "periodS": 6.5, "directionDeg": 115, "energyDensity": 0.01 },
+    { "id": "o06", "time": "2026-09-27T05:00:00Z", "waveHeightM": null, "periodS": 7.0, "directionDeg": 120, "energyDensity": 0.02 },
+    { "id": "o07", "time": "2026-09-27T06:00:00Z", "waveHeightM": 1.42, "periodS": 7.5, "directionDeg": 125, "energyDensity": 0.03 },
+    { "id": "o08", "time": "2026-09-27T07:00:00Z", "waveHeightM": 1.55, "periodS": 8.5, "directionDeg": 130, "energyDensity": 0.04 },
+    { "id": "o09", "time": "2026-09-27T08:00:00Z", "waveHeightM": 1.61, "periodS": 9.0, "directionDeg": 135, "energyDensity": 0.05 },
+    { "id": "o10", "time": "2026-09-27T09:00:00Z", "waveHeightM": 1.74, "periodS": 9.5, "directionDeg": 140, "energyDensity": 0.01 },
+    { "id": "o11", "time": "2026-09-27T10:00:00Z", "waveHeightM": 1.82, "periodS": 10.0, "directionDeg": 145, "energyDensity": 0.02 },
+    { "id": "o12", "time": "2026-09-27T11:00:00Z", "waveHeightM": 1.95, "periodS": 8.0, "directionDeg": 150, "energyDensity": 0.03 },
+    { "id": "o13", "time": "2026-09-27T12:00:00Z", "waveHeightM": 2.08, "periodS": 8.5, "directionDeg": 155, "energyDensity": 0.04 },
+    { "id": "o14", "time": "2026-09-27T11:30:00Z", "waveHeightM": 2.15, "periodS": 9.0, "directionDeg": 160, "energyDensity": 0.05 },
+    { "id": "o15", "time": "2026-09-27T13:00:00Z", "waveHeightM": 2.24, "periodS": 9.5, "directionDeg": 165, "energyDensity": 0.01 },
+    { "id": "o16", "time": "2026-09-27T14:00:00Z", "waveHeightM": 2.31, "periodS": 10.5, "directionDeg": 170, "energyDensity": 0.02 },
+    { "id": "o17", "time": "2026-09-27T15:00:00Z", "waveHeightM": null, "periodS": 9.0, "directionDeg": 175, "energyDensity": 0.03 },
+    { "id": "o18", "time": "2026-09-27T16:00:00Z", "waveHeightM": 2.48, "periodS": 27.0, "directionDeg": 180, "energyDensity": 0.04 },
+    { "id": "o19", "time": "2026-09-27T17:00:00Z", "waveHeightM": 999.0, "periodS": 10.0, "directionDeg": 185, "energyDensity": 0.05 },
+    { "id": "o20", "time": "2026-09-27T18:00:00Z", "waveHeightM": 2.61, "periodS": 10.5, "directionDeg": 190, "energyDensity": 0.01 },
+    { "id": "o21", "time": "2026-09-27T19:00:00Z", "waveHeightM": 2.73, "periodS": 11.0, "directionDeg": 195, "energyDensity": 0.02 },
+    { "id": "o22", "time": "2026-09-27T20:00:00Z", "waveHeightM": 2.66, "periodS": 11.0, "directionDeg": 200, "energyDensity": 0.03 },
+    { "id": "o23", "time": "2026-09-27T20:00:00Z", "waveHeightM": 2.80, "periodS": 11.5, "directionDeg": 205, "energyDensity": 0.04 },
+    { "id": "o24", "time": "2026-09-27T21:00:00Z", "waveHeightM": 2.91, "periodS": 12.0, "directionDeg": 210, "energyDensity": 0.05 }
+  ]
+}
